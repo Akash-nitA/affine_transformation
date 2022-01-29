@@ -6,3 +6,4 @@ More generally, an affine transformation is an automorphism of an affine space (
 
 ![image](https://user-images.githubusercontent.com/76721146/151675493-899a7b63-a716-4195-9b34-ad989c4bf57a.png)
 
+we have used affine transformation in the mnist handwritten dataset and applied a basic neural net to accurately predict the result.
